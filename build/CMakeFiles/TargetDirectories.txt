@@ -1,0 +1,4 @@
+/home/abdullah/modern_cpp/modern_cpp_build_systems/build/CMakeFiles/rebuild_cache.dir
+/home/abdullah/modern_cpp/modern_cpp_build_systems/build/CMakeFiles/tools.dir
+/home/abdullah/modern_cpp/modern_cpp_build_systems/build/CMakeFiles/edit_cache.dir
+/home/abdullah/modern_cpp/modern_cpp_build_systems/build/CMakeFiles/main.dir

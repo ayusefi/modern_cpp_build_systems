@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/abdullah/modern_cpp/modern_cpp_build_systems/build",
+  "command": "/usr/lib/ccache/c++   -I/home/abdullah/modern_cpp/modern_cpp_build_systems/.    -o CMakeFiles/tools.dir/tools.cpp.o -c /home/abdullah/modern_cpp/modern_cpp_build_systems/tools.cpp",
+  "file": "/home/abdullah/modern_cpp/modern_cpp_build_systems/tools.cpp"
+},
+{
+  "directory": "/home/abdullah/modern_cpp/modern_cpp_build_systems/build",
+  "command": "/usr/lib/ccache/c++   -I/home/abdullah/modern_cpp/modern_cpp_build_systems/.    -o CMakeFiles/main.dir/main.cpp.o -c /home/abdullah/modern_cpp/modern_cpp_build_systems/main.cpp",
+  "file": "/home/abdullah/modern_cpp/modern_cpp_build_systems/main.cpp"
+}
+]
